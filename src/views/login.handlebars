@@ -1,0 +1,24 @@
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-4">
+            <div class="card mt-5 shadow-sm">
+                <div class="card-body">
+                    <h2 class="card-title text-center mb-4">Inicio de Sesión</h2>
+                    <form action="/api/sessions/login" method="POST">
+                        <div class="mb-3">
+                            <label for="usuario" class="form-label">Usuario:</label>
+                            <input type="text" class="form-control" name="usuario" id="usuario"
+                                placeholder="Ingresa tu usuario" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="password" class="form-label">Contraseña:</label>
+                            <input type="password" class="form-control" name="password" id="password"
+                                placeholder="Ingresa tu contraseña" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100">Iniciar Sesión</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

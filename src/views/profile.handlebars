@@ -1,0 +1,10 @@
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 text-center">
+            <h2 class="mb-4">Bienvenido, {{usuario}}</h2>
+            <form action="/api/sessions/logout" method="POST">
+                <button type="submit" class="btn btn-danger">Cerrar sesión</button>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Zapatillas Deportivas",
+    "description": "Zapatillas Running Adidas",
+    "price": 45000,
+    "img": "sin imagen",
+    "code": "sneak001",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "Botines",
+    "description": "Botines de Cuero para Hombre",
+    "price": 62000,
+    "img": "sin imagen",
+    "code": "boot002",
+    "stock": 18
+  },
+  {
+    "id": 3,
+    "title": "Sandalias",
+    "description": "Sandalias de Verano para Mujer",
+    "price": 15000,
+    "img": "sin imagen",
+    "code": "sand003",
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "title": "Zapatos Formales",
+    "description": "Zapatos de Cuero para Oficina",
+    "price": 55000,
+    "img": "sin imagen",
+    "code": "form004",
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "title": "Mocasines",
+    "description": "Mocasines Casual para Hombre",
+    "price": 37000,
+    "img": "sin imagen",
+    "code": "moca005",
+    "stock": 22
+  },
+  {
+    "id": 6,
+    "title": "Botas de Nieve",
+    "description": "Botas Impermeables para Invierno",
+    "price": 75000,
+    "img": "sin imagen",
+    "code": "snow006",
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "title": "Zapatillas Casual",
+    "description": "Zapatillas Casual para Mujer",
+    "price": 29000,
+    "img": "sin imagen",
+    "code": "casual007",
+    "stock": 25
+  },
+  {
+    "id": 8,
+    "title": "Zapatos de Seguridad",
+    "description": "Zapatos de Seguridad con Punta de Acero",
+    "price": 65000,
+    "img": "sin imagen",
+    "code": "safety008",
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "title": "Zapatos de Ballet",
+    "description": "Zapatos de Ballet de Cuero para Niña",
+    "price": 20000,
+    "img": "sin imagen",
+    "code": "ballet009",
+    "stock": 35
+  },
+  {
+    "id": 10,
+    "title": "Botas de Lluvia",
+    "description": "Botas Impermeables para Lluvia",
+    "price": 10000,
+    "img": "sin imagen",
+    "code": "rain010",
+    "stock": 20
+  },
+  {
+    "id": 11,
+    "title": "dsdsd",
+    "description": "sdsd",
+    "code": "20",
+    "price": "2000",
+    "status": true,
+    "stock": "30",
+    "category": "dsdvsdv"
+  }
+]

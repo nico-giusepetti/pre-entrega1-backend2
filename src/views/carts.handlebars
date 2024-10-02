@@ -1,0 +1,17 @@
+
+<h1 class="text-center my-4">Carrito de Compras</h1>
+
+<div class="container">
+    {{#each productos}}
+    <div class="row mb-3 p-3 border rounded shadow-sm bg-light align-items-center">
+        <div class="col-md-8">
+            <h5 class="mb-1 text-dark">Producto: <span class="fw-bold">{{this.product.title}}</span></h5>
+        </div>
+        <div class="col-md-4 text-md-end">
+            <p class="mb-0 text-muted">Cantidad: <span class="fw-bold">{{this.quantity}}</span></p>
+        </div>
+    </div>
+    {{/each}}
+</div>
+
+
